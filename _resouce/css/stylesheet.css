@@ -1,0 +1,19 @@
+
+/*全体設定*/
+html, body {
+    background-color: #FFFFFF;
+    color: #383838;
+}
+
+/*余白*/
+#mm_60 {
+    margin-top: 60px;
+}
+
+/*グラフフォントサイズ*/
+.c3-axis-y text {
+    font-size: 14px;
+}
+.c3-axis-x text {
+    font-size: 14px;
+}
