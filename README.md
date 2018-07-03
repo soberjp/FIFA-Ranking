@@ -15,7 +15,6 @@
 - d3 v5.5.0
 - jquery v2.1.4
 - materialize-css v0.100.2
-- ress v1.2.2
 - webpack v3.5.4
 - webpack-dev-server v2.7.1
 - css-loader v0.28.11
